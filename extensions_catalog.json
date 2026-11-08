@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "zenq.image.blender",
+    "name": "Image Blender",
+    "version": "1.0.0",
+    "description": "Làm rõ dần và hòa trộn ảnh nghệ thuật (Đường kẻ / Tỏa tròn)",
+    "category": "Ảnh",
+    "authorId": 1,
+    "authorName": "Trương Nguyễn Thế Danh",
+    "targetApps": [
+      "Slides"
+    ],
+    "actionId": "blender:open",
+    "iconIndex": 0,
+    "downloadUrl": "https://raw.githubusercontent.com/danhtruong6112009-source/zenq-office-extensions/main/extensions/zenq.image.blender.zqe"
+  }
+]
