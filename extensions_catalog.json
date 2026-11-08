@@ -1,0 +1,98 @@
+[
+  {
+    "id": "zenq.qrcode.pro",
+    "name": "Mã QR Thông Minh",
+    "version": "1.0.0",
+    "description": "Tạo và chèn mã QR tùy biến cao cấp cho văn bản, URL, mạng Wi-Fi và danh thiếp.",
+    "category": "Dữ liệu",
+    "authorId": 1,
+    "authorName": "Trương Nguyễn Thế Danh",
+    "targetApps": [
+      "Slides",
+      "Writer",
+      "Calc"
+    ],
+    "actionId": "qr",
+    "iconIndex": 0,
+    "downloadUrl": "https://raw.githubusercontent.com/danhtruong6112009-source/zenq-office-extensions/main/extensions/zenq.qrcode.pro.zqe"
+  },
+  {
+    "id": "zenq.chart.pro",
+    "name": "Biểu Đồ Trực Quan",
+    "version": "1.0.0",
+    "description": "Kho mẫu biểu đồ cột, tròn, đường và phân tích chỉ số kinh doanh hiện đại.",
+    "category": "Dữ liệu",
+    "authorId": 1,
+    "authorName": "Trương Nguyễn Thế Danh",
+    "targetApps": [
+      "Slides",
+      "Calc"
+    ],
+    "actionId": "chart",
+    "iconIndex": 1,
+    "downloadUrl": "https://raw.githubusercontent.com/danhtruong6112009-source/zenq-office-extensions/main/extensions/zenq.chart.pro.zqe"
+  },
+  {
+    "id": "zenq.graphics.library",
+    "name": "Đồ Họa & Minh Họa Vector",
+    "version": "1.0.0",
+    "description": "Hơn 500+ biểu tượng vector và hình ảnh đồ họa sinh động cho trang chiếu.",
+    "category": "Thiết kế",
+    "authorId": 1,
+    "authorName": "Trương Nguyễn Thế Danh",
+    "targetApps": [
+      "Slides",
+      "Writer"
+    ],
+    "actionId": "icons",
+    "iconIndex": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/danhtruong6112009-source/zenq-office-extensions/main/extensions/zenq.graphics.library.zqe"
+  },
+  {
+    "id": "zenq.typography.art",
+    "name": "Chữ Nghệ Thuật 3D",
+    "version": "1.0.0",
+    "description": "Tạo hiệu ứng chữ nghệ thuật 3D, chữ gradient phát sáng và kiểu chữ độc đáo.",
+    "category": "Chữ",
+    "authorId": 1,
+    "authorName": "Trương Nguyễn Thế Danh",
+    "targetApps": [
+      "Slides"
+    ],
+    "actionId": "type",
+    "iconIndex": 3,
+    "downloadUrl": "https://raw.githubusercontent.com/danhtruong6112009-source/zenq-office-extensions/main/extensions/zenq.typography.art.zqe"
+  },
+  {
+    "id": "zenq.photo.frame",
+    "name": "Khung Ảnh Nghệ Thuật",
+    "version": "1.0.0",
+    "description": "Bo góc mềm, tạo khung viền nổi và hiệu ứng đổ bóng chuẩn studio cho hình ảnh.",
+    "category": "Ảnh",
+    "authorId": 1,
+    "authorName": "Trương Nguyễn Thế Danh",
+    "targetApps": [
+      "Slides"
+    ],
+    "actionId": "frame",
+    "iconIndex": 4,
+    "downloadUrl": "https://raw.githubusercontent.com/danhtruong6112009-source/zenq-office-extensions/main/extensions/zenq.photo.frame.zqe"
+  },
+  {
+    "id": "zenq.palette.master",
+    "name": "Bảng Màu Chuyên Nghiệp",
+    "version": "1.0.0",
+    "description": "Bộ sưu tập bảng phối màu xu hướng thời thượng cho bản trình bày và tài liệu.",
+    "category": "Thiết kế",
+    "authorId": 1,
+    "authorName": "Trương Nguyễn Thế Danh",
+    "targetApps": [
+      "Slides",
+      "Writer",
+      "Calc"
+    ],
+    "actionId": "palette",
+    "iconIndex": 5,
+    "downloadUrl": "https://raw.githubusercontent.com/danhtruong6112009-source/zenq-office-extensions/main/extensions/zenq.palette.master.zqe"
+  }
+]
